@@ -6,7 +6,7 @@
  * Version:           1.0.0
  * Author:            Your Name
  * License:           GPL-2.0+
- * Text Domain:       worknoon-chat-wordpress
+ * Text Domain:       worknoon-chat
  * Requires at least: 5.8
  * Requires PHP:      7.4
  */
